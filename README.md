@@ -26,7 +26,7 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 ✅ Progress Tracker
 📌 Phase 1: Basics (22 Sep – 06 Oct, 15 days)
 
- 22 Sep → Install Python + VS Code setup + first script
+ 22 Sep → Install Python + VS Code setup + first script (Done)
 
  23 Sep → Variables & data types (about_me.py)
 
