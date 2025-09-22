@@ -28,11 +28,11 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
  22 Sep → Install Python + VS Code setup + first script (Done)
 
- 23 Sep → Variables & data types (about_me.py)
+ 23 Sep → Variables & data types (about_me.py) (Done)
 
  24 Sep → Operators (math, comparison, logical)
 
- 25 Sep → Strings (slicing, methods, f-strings)
+ 25 Sep → Strings (slicing, methods, f-strings) (Done)
 
  26 Sep → Lists & tuples
 
@@ -44,7 +44,7 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
  30 Sep → Functions (parameters, return values)
 
- 01 Oct → Scope (local vs global variables)
+ 01 Oct → Scope (local vs global variables) (Done)
 
  02 Oct → User input + type conversion
 
