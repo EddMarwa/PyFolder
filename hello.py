@@ -12,3 +12,14 @@ print(x + y + z)
 X = 5
 y = 10
 print(X + y)
+
+
+
+
+x = "Eddy"
+
+def surname():
+    x = "Chua"
+    print("My surname is " + x)
+surname()
+print("My first name is " + x)
