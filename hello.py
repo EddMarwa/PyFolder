@@ -1,0 +1,1 @@
+print("hello, Python! Today is 22/09/2025.")
