@@ -23,3 +23,10 @@ def surname():
     print("My surname is " + x)
 surname()
 print("My first name is " + x)
+
+name = "Edd" 
+age = 10 
+language = "python" 
+#print ("My name is " + name + ", I am " + str(age) + " years old, and I am learning " + language)
+
+print(f"My name is {name}, I am {age} years old, and I am learning {language}.")
