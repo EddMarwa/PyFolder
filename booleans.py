@@ -9,3 +9,8 @@ print(eddy)
 
 for s in eddy:
     print(s)
+
+i=0
+while i < len(eddy):
+    print(eddy[i])
+    i+=1
