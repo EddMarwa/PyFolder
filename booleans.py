@@ -3,14 +3,28 @@
 #print(True or False)
 #print(not False)
 
-eddy = ["Ferrari","Honda","Toyota"]
-eddy.append("lamborghini")
-print(eddy)
+#eddy = ["Ferrari","Honda","Toyota"]
+#eddy.append("lamborghini")
+#print(eddy)
 
-for s in eddy:
-    print(s)
+#for s in eddy:
+ #   print(s)
 
-i=0
-while i < len(eddy):
-    print(eddy[i])
-    i+=1
+#i=0
+#while i < len(eddy):
+ #   print(eddy[i])
+  #  i+=1
+
+#mylist = ['apple', 'banana', 'cherry']
+#i = 0
+#for i in range(len(mylist)):
+ # print(mylist[i])
+  #i += 1
+
+cars = ["Ford", "Volvo", "BMW"]
+ncars = []
+
+for x in cars:
+  if x != "BMW":
+    ncars.append(x)
+print(ncars)
