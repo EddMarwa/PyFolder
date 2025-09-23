@@ -3,3 +3,9 @@
 #print(True or False)
 #print(not False)
 
+eddy = ["Ferrari","Honda","Toyota"]
+eddy.append("lamborghini")
+print(eddy)
+
+for s in eddy:
+    print(s)
