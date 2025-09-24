@@ -12,6 +12,6 @@
 
 x = ("mercedes", "ferrari", "Mclaren")
 y = list(x)
-y[1] = "Haas"
+x[1] = "Haas"
 
 print(x)
