@@ -12,4 +12,5 @@
 
 x = ("mercedes", "ferrari", "Mclaren")
 y = tuple(x)
+y[1] = "Haas"
 print(x)
