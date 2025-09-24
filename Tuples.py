@@ -9,3 +9,6 @@
  # print("Yes, 'apple' is in the fruits tuple")
 
 # Tuples are unchangeable, meaning that you cannot change, add, or remove items once the tuple is created.
+
+x = ("merceded", "ferrari", "Mclaren")
+print(x)
