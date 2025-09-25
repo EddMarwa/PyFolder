@@ -3,7 +3,7 @@ This folder contains all repos to mini python projects.
 🐍 Python Learning Journey (22 Sep – 30 Nov 2025)
 22/09/2025: 2hrs 30 mins
 23/09/2025: 1hr 45 mins
-24/09/2025: 43 minutes
+24/09/2025: 45 minutes
 
 Hrs Put In: 5hrs 15 mins
 
