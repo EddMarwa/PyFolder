@@ -9,5 +9,11 @@
 #print(myorder.format(quantity, itemno, price))
 
 
-name = input("Enter your name: ")
-print(f"Hello, {name} !" )
+#name = input("Enter your name: ")
+#print(f"Hello, {name} !" )
+
+#fav1 = input("Enter your favorite animal?:")
+#fav2 = input("Enter your favorite color?:")
+#fav3 = input("Enter your favorite number?:")
+
+#print(f"Do you want a {fav2} {fav1} with {fav3} legs?")
