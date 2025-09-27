@@ -8,6 +8,6 @@
 #myorder = "I want {1} pieces of item number {0} for {2:.2f} dollars."
 #print(myorder.format(quantity, itemno, price))
 
-print("Enter your name: ")
-name = input()
+
+name = input("Enter your name: ")
 print(f"Hello, {name} !" )
