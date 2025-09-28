@@ -37,7 +37,7 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
  23 Sep → Variables & data types (about_me.py) (Done)
 
- 24 Sep → Operators (math, comparison, logical)
+ 24 Sep → Operators (math, comparison, logical) (Done)
 
  25 Sep → Strings (slicing, methods, f-strings) (Done)
 
