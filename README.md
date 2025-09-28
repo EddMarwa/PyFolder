@@ -41,7 +41,7 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
  25 Sep → Strings (slicing, methods, f-strings) (Done)
 
- 26 Sep → Lists & tuples
+ 26 Sep → Lists & tuples (Done)
 
  27 Sep → Dictionaries & sets
 
