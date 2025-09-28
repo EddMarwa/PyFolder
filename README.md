@@ -43,7 +43,7 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
  26 Sep → Lists & tuples (Done)
 
- 27 Sep → Dictionaries & sets
+ 27 Sep → Dictionaries & sets (Done)
 
  28 Sep → If/else conditions
 
