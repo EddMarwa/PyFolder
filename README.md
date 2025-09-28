@@ -53,7 +53,7 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
  01 Oct → Scope (local vs global variables) (Done)
 
- 02 Oct → User input + type conversion
+ 02 Oct → User input + type conversion (Done)
 
  03 Oct → Mini-project: Calculator
 
