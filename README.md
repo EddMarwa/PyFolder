@@ -9,9 +9,9 @@ This folder contains all repos to mini python projects.
 27/09/2025: 1hr 55 minutes
 28/09/2025: 1hr 0 minutes
 29/09/2025: 1 hr 10 minutes
-30/09/2025: 
+30/09/2025: 0hr 50 minutes
 
-Hrs Put In: 8hrs 55 mins
+Hrs Put In: 9hrs 45 mins
 
 This repository tracks my Python fast-track learning plan from 22nd September 2025 to 30th November 2025.
 Goal → By 01 Dec 2025, I will have:
