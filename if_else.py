@@ -17,7 +17,6 @@
 
 #PYTHON MATCH STATEMENT
 
-
 day = 40
 match day:
   case 1:
@@ -46,3 +45,14 @@ match day:
     print("I love weekends!")
   case _:
     print("Not in a week!")
+
+month = 4
+day = 4
+match day:
+  case 1 | 2 | 3 | 4 | 5 if month == 4:
+    print("A weekday in April")
+  case 1 | 2 | 3 | 4 | 5 if month == 5:
+    print("A weekday in May")
+  case _:
+    print("No match")
+# --- IGNORE ---
