@@ -17,7 +17,7 @@
 
 #PYTHON MATCH STATEMENT
 
-day = 4
+day = 40
 match day:
   case 1:
     print("Monday")
@@ -33,3 +33,5 @@ match day:
     print("Saturday")
   case 7:
     print("Sunday")
+  case _:
+    print("Invalid day")
