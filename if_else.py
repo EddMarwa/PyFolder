@@ -35,3 +35,13 @@ match day:
     print("Sunday")
   case _:
     print("Invalid day")
+
+
+day = 8
+match day:
+  case 1 | 2 | 3 | 4 | 5:
+    print("Today is a weekday")
+  case 6 | 7:
+    print("I love weekends!")
+  case _:
+    print("Not in a week!")
