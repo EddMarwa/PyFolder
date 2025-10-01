@@ -32,3 +32,14 @@ def tri_recursion(k):
 
 print("Recursion Example Results:")
 tri_recursion(6)
+
+
+def tri_recursion(k):
+    if k > 0:                     # condition to stop recursion
+        result = k + tri_recursion(k - 1)   # function calls itself
+        print("Returning:", result)
+        return result
+    else:
+        return 0                   # base case: stop when k == 0
+
+tri_recursion(3)
