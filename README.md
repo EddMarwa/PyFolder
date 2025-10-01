@@ -10,6 +10,7 @@ This folder contains all repos to mini python projects.
 28/09/2025: 1hr 0 minutes
 29/09/2025: 1 hr 10 minutes
 30/09/2025: 0hr 50 minutes
+01/10/2025: 1hr 30 minutes
 
 Hrs Put In: 9hrs 45 mins
 
@@ -53,7 +54,7 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
  29 Sep → Loops (for, while) (Done)
 
- 30 Sep → Functions (parameters, return values)
+ 30 Sep → Functions (parameters, return values)(Done)
 
  01 Oct → Scope (local vs global variables) (Done)
 
