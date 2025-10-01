@@ -49,9 +49,9 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
  27 Sep → Dictionaries & sets (Done)
 
- 28 Sep → If/else conditions
+ 28 Sep → If/else conditions(Done)
 
- 29 Sep → Loops (for, while)
+ 29 Sep → Loops (for, while) (Done)
 
  30 Sep → Functions (parameters, return values)
 
