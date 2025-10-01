@@ -18,7 +18,6 @@
 def my_function(food):
   for x in food:
     print(x)
-my_function("food")
-#fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana", "cherry"]
 
-#my_function(fruits)
+my_function(fruits)
