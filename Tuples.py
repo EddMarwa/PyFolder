@@ -10,8 +10,10 @@
 
 # Tuples are unchangeable, meaning that you cannot change, add, or remove items once the tuple is created.
 
-x = ("mercedes", "ferrari", "Mclaren")
-y = list(x)
-y[1] = "Haas"
-x = tuple(y)
-print(x)
+#x = ("mercedes", "ferrari", "Mclaren")
+#y = list(x)
+#y[1] = "Haas"
+#x = tuple(y)
+#print(x)
+
+
