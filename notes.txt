@@ -12,3 +12,5 @@ Makes code easier to maintain, reuse, and debug
 Helps keep your code DRY (Don't Repeat Yourself)
 Allows you to build reusable applications with less code
 Tip: The DRY principle means you should avoid writing the same code more than once. Move repeated code into functions or classes and reuse it.
+
+You put in pass to avoid getting an error in python
