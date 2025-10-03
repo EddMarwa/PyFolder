@@ -20,5 +20,10 @@ import datetime
 
 
 
-x = datetime.datetime.now()
-print(x)
+#x = datetime.datetime.now()
+#print(x)
+
+class Person:
+  pass
+
+# having an empty class definition like this, would raise an error without the pass statement
