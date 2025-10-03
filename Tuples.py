@@ -47,10 +47,13 @@ class Computer:
   def config(self):
     print("i5, 16GB, 1TB")
 
+  def config2(self):
+      print("i7, 32GB, 2TB")
+
 com1 = Computer()
 com2 = Computer()
 Computer.config(com1)
-Computer.config(com2)
+Computer.config2(com2)
 
 com1.config()
-com2.config()
+com2.config2()
