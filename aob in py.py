@@ -4,7 +4,11 @@
 #print(6 in r)
 #print(7 in r)
 #
-for i in range(3):
-    print(i)
-
+#for i in range(3):
+#    print(i)
+#
 #python lambda.py
+import platform
+
+x = platform.system()
+print(x)
