@@ -48,6 +48,4 @@ class Computer:
     print("i5, 16GB, 1TB")
 
 com1 = Computer()
-print(type(com1))
 Computer.config(com1)
-com1.config()
