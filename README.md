@@ -14,6 +14,7 @@ This folder contains all repos to mini python projects.
 02/10/2025: 0hr 10 minutes
 03/10/2025: 1hr 10 minutes
 04/10/2025: 0hr 20 minutes
+05/10/2025: 0hr 50 minutes
 
 
 
@@ -65,9 +66,9 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
  02 Oct → User input + type conversion (Done)
 
- 03 Oct → Mini-project: Calculator
+ 03 Oct → Mini-project: Calculator (Done)
 
- 04 Oct → Mini-project: Number Guessing Game
+ 04 Oct → Mini-project: Number Guessing Game (Done)
 
  05 Oct → Practice day (HackerRank/W3Schools)
 
