@@ -30,7 +30,7 @@ Goal → By 01 Dec 2025, I will have:
 
 📅 Roadmap Overview
 
-Phase 1 (22 Sep – 06 Oct) → Python Basics
+### Phase 1 (22 Sep – 06 Oct) → Python Basics 
 
 Phase 2 (07 Oct – 20 Oct) → Intermediate Concepts
 
