@@ -1,27 +1,21 @@
-print("1 - Addition")
-print("2 - Subtraction")
-print("3 - Multiplication")
-print("4 - Division")
+print ("1 - Addition")
+print ("2 - Subtraction")
+print ("3 - Multiplication")
+print ("4 - Division")
 
-option = int(input("Choose an operation (1/2/3/4): "))
+choice = input("Enter a choice: ")
+num1 = input("Enter your first number: ")
+num2 = input ("Enter your second number: ")
 
+if choice == "1":
+    print (num1 + num2)
+elif choice == "2":
+    print (num1 - num2)
+elif choice == "3":
+    print (num1 * num2)
+elif choice == "4":
+    print (num1 / num2)
 
-if (option in [1,2,3,4]):
-    num1 = int(input("Enter first number: "))
-    num2 = int(input("Enter second number: "))
-
-    if(option == 1):
-        result = num1 + num2
-    elif(option == 2):
-            result = num1 - num2
-    elif(option == 3):
-            result = num1 * num2
-    elif(option == 4):
-            result = num1 / num2   
-
-
-else:    print("Invalid input")
-
-print("The result of the operation is {}".format(result))
-
-
+else:
+    print ("Invalid input")
+# Simple calculator program
