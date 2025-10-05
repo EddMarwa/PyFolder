@@ -11,3 +11,4 @@ while guess != number:
         print("Too high! Try again.")
     else:
         print("Congratulations! You've guessed the number.")
+        
