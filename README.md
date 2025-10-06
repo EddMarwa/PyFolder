@@ -15,6 +15,7 @@ This folder contains all repos to mini python projects.
 03/10/2025: 1hr 10 minutes
 04/10/2025: 0hr 20 minutes
 05/10/2025: 0hr 55 minutes
+06/10/2025: 0hr 0 minutes
 
 
 
@@ -88,7 +89,7 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
  12 Oct → Modules & imports
 
- 13 Oct → Virtual environments (venv)
+ 13 Oct → Virtual environments (venv) 
 
  14 Oct → External libraries (pip install requests)
 
