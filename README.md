@@ -72,9 +72,9 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
  04 Oct → Mini-project: Number Guessing Game (Done)
 
- 05 Oct → Practice day (HackerRank/W3Schools)
+ 05 Oct → Practice day (HackerRank/W3Schools) (Done)
 
- 06 Oct → Wrap-up & review quiz
+ 06 Oct → Wrap-up & review quiz (Done)
 
 📌 Phase 2: Intermediate (07 Oct – 20 Oct, 14 days)
 
