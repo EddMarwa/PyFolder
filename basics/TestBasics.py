@@ -106,3 +106,14 @@ print (f"The square of {num} is {square(num)}")
 
 # Your code here
 
+marks = input("Enter marks here: ")
+
+if int(marks) < 50:
+    print ("Fail")
+elif int(marks) > 79:
+    print ("Distinction")
+else:
+    print ("Pass")
+
+student = {"name":"Edd","marks":marks}
+print (f"{student['name']} scored {student['marks']} and achieved ", end="")
