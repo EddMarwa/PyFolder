@@ -18,6 +18,10 @@ num2 = 5
 
 print (f"The sum is {num1 + num2}")
 print (f"The diff is {num1 - num2}")
+print (f"The product is {num1 * num2}")
+print (f"The division is {num1 / num2}")
+print (f"The modulus is {num1 % num2}")
+
 
 # Your code here
 
