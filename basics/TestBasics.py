@@ -35,6 +35,7 @@ print (f"The modulus is {num1 % num2}")
 # First 6: Python, Last 6: mming, Uppercase: PYTHONPROGRAMMING
 
 text = "PythonProgramming"
+print (f"First 6: {text[:6]}, Last 6: {text[-6:]}, Uppercase: {text.upper()}")
 
 # Your code here
 
