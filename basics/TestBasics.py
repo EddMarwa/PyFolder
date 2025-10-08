@@ -47,6 +47,7 @@ print (f"First 6: {text[:6]}, Last 6: {text[-6:]}, Uppercase: {text.upper()}")
 # Convert the list to a tuple and print it
 
 numbers = [10, 5, 8, 20, 15]
+print (f"The largest number is {max(numbers)}")
 
 # Your code here
 
@@ -60,6 +61,10 @@ numbers = [10, 5, 8, 20, 15]
 student = {"name":"Edd","age":10,"grade":4}
 colors = {"red", "blue", "green", "orange", "purple"}
 
+print (f"{student['name']} is {student['age']} years old and in Grade {student['grade']}.")
+colors.add("yellow")
+print (colors)
+
 # Your code here
 
 
@@ -70,6 +75,9 @@ colors = {"red", "blue", "green", "orange", "purple"}
 # Use a for loop to print numbers from 1 to that number
 
 # Your code here
+num =input("Enter a number: ")
+
+
 
 
 
