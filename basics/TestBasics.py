@@ -91,6 +91,10 @@ else:
 
 # Your code here
 
+def square(n):
+    return n * n
+num = int(input("Enter a number: "))
+print (f"The square of {num} is {square(num)}")
 
 
 # Q7. Mini Project – Grade Checker
