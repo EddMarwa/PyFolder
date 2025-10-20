@@ -10,5 +10,6 @@
 # the result is a Python dictionary:
 #print(y["city"])
 
-
+import time
+start = time.time()
 
