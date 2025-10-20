@@ -18,3 +18,7 @@ You put in pass to avoid getting an error in python
 
 Several Python Libraries
 The libraries have already built in function to save you the hussle of writing and creating new functions.
+1. Numpy
+2. Pandas for data analysis
+3. SciPy
+4.Django
