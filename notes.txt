@@ -14,3 +14,7 @@ Allows you to build reusable applications with less code
 Tip: The DRY principle means you should avoid writing the same code more than once. Move repeated code into functions or classes and reuse it.
 
 You put in pass to avoid getting an error in python
+
+
+Several Python Libraries
+The libraries have already built in function to save you the hussle of writing and creating new functions.
