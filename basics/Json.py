@@ -11,5 +11,16 @@
 #print(y["city"])
 
 import time
-start = time.time()
+
+start = time.time()  # Start timer
+
+# --- Code block you want to measure ---
+total = 0
+for i in range(1_000_000_000_000_000_000_000_000):
+    total += i
+# -------------------------------------
+
+end = time.time()  # End timer
+
+print(f"Execution time: {end - start:.5f} seconds")
 
