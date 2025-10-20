@@ -21,4 +21,4 @@ The libraries have already built in function to save you the hussle of writing a
 1. Numpy
 2. Pandas for data analysis
 3. SciPy
-4.Django
+4. Django
