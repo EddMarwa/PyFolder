@@ -97,17 +97,17 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
  08 Oct → Append vs overwrite files
 
- 09 Oct → JSON basics (json module)
+ 09 Oct → JSON basics (json module) (Done)
 
- 10 Oct → Error handling (try/except/finally)
+ 10 Oct → Error handling (try/except/finally) (Done)
 
- 11 Oct → Custom exceptions
+ 11 Oct → Custom exceptions (Done)
 
- 12 Oct → Modules & imports
+ 12 Oct → Modules & imports (Done)
 
- 13 Oct → Virtual environments (venv) 
+ 13 Oct → Virtual environments (venv) (Done)
 
- 14 Oct → External libraries (pip install requests)
+ 14 Oct → External libraries (pip install requests)(Done)
 
  15 Oct → Mini-project: To-Do List CLI
 
