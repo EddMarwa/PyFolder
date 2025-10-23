@@ -32,13 +32,13 @@ This folder contains all repos to mini python projects.
 20/10/2025: 2hrs 40 minutes
 21/10/2025: 0hrs 0 minutes
 22/10/2025: 0hrs 0 minutes
-23/10/2025: 0hrs 0 minutes
+23/10/2025: 0hrs 40 minutes
 
 
 
 
 
-Hrs Put In: 17hrs
+Hrs Put In: 17hrs 40 minutes
 
 This repository tracks my Python fast-track learning plan from 22nd September 2025 to 30th November 2025.
 Goal → By 01 Dec 2025, I will have:
@@ -112,7 +112,7 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
  14 Oct → External libraries (pip install requests)(Done)
 
- 15 Oct → Mini-project: To-Do List CLI
+ 15 Oct → Mini-project: To-Do List CLI (Done)
 
  16 Oct → APIs basics (HTTP, JSON response)
 
