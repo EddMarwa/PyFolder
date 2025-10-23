@@ -96,9 +96,9 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
 📌 Phase 2: Intermediate (07 Oct – 20 Oct, 14 days)
 
- 07 Oct → File handling (read/write)
+ 07 Oct → File handling (read/write) (Done)
 
- 08 Oct → Append vs overwrite files
+ 08 Oct → Append vs overwrite files (Done)
 
  09 Oct → JSON basics (json module) (Done)
 
@@ -106,7 +106,7 @@ Phase 5 (25 Nov – 30 Nov) → Portfolio Sprint
 
  11 Oct → Custom exceptions (Done)
 
- 12 Oct → Modules & imports (Done)
+ 12 Oct → Modules & imports (Done) 
 
  13 Oct → Virtual environments (venv) (Done)
 
