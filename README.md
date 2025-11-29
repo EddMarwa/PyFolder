@@ -65,7 +65,7 @@ This folder contains all repos to mini python projects.
 22/11/2025: 0 hrs 0 minutes
 23/11/2025: 0 hrs 0 minutes
 24/11/2025: 0 hrs 0 minutes
-24/11/2025: 0 hrs 0 minutes
+25/11/2025: 0 hrs 0 minutes
 
 
 
