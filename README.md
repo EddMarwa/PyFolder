@@ -10,6 +10,7 @@ This folder contains all repos to mini python projects.
 28/09/2025: 1hr 0 minutes
 29/09/2025: 1 hr 10 minutes
 30/09/2025: 0hr 50 minutes
+
 01/10/2025: 1hr 30 minutes
 02/10/2025: 0hr 10 minutes
 03/10/2025: 1hr 10 minutes
