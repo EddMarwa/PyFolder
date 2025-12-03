@@ -136,7 +136,6 @@ def add_note():
     notebook.add(frame, text="New Note")
     notebook.select(frame)
 
-
 def delete_note():
     """Delete the currently selected note tab.
 
