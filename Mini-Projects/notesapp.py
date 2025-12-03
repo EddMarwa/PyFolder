@@ -202,8 +202,3 @@ load_notes()
 
 root.mainloop()
 
-
-
-
-
-
