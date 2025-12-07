@@ -188,7 +188,7 @@ def load_notes():
         add_note_tab(title, content)
 
 
-# --- UI: toolbar with New and Delete buttons ---
+# --- UI: toolbar with New and Deletion buttons ---
 toolbar = ttk.Frame(root)
 toolbar.pack(fill=tk.X, padx=10)
 new_btn = ttk.Button(toolbar, text="New Note", command=add_note)
