@@ -138,7 +138,6 @@ def add_note():
 
 def delete_note():
     """Delete the currently selected note tab.
-
     - If the selected tab is the unsaved 'New Note' tab, it is simply removed.
     - Otherwise the user is asked to confirm; if confirmed the note is removed
       from the in-memory dict, saved to disk, and the tab is removed from UI.
@@ -198,7 +197,7 @@ del_btn.pack(side=tk.LEFT, padx=5)
 
 
 # Load notes from disk and start the Tk event loop
-# fct checking for existing notes.json and populating tabs 
+# fct check 
 
 load_notes()
 
