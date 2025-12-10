@@ -151,7 +151,7 @@ def delete_note():
     # Tab label (title) is stored in the 'text' option of the tab
     title = notebook.tab(idx, "text")
 
-    # Unsaved new note tabs are labeled 'New Note' and shouldn't prompt
+    # Unsaved new note tabs are labeled 'New Note' and shouldn't prompt.
     if title == "New Note":
         notebook.forget(idx)
         return
