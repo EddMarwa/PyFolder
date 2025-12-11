@@ -197,7 +197,7 @@ del_btn.pack(side=tk.LEFT, padx=5)
 
 
 # Load notes from disk and start the Tk event loop
-#T
+
 # fct check 
 
 load_notes()
