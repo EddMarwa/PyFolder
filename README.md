@@ -1,6 +1,7 @@
 # PyFolder
 This folder contains all repos to mini python projects.
 🐍 Python Learning Journey (22 Sep – 30 Nov 2025)
+
 22/09/2025: 2hrs 30 mins
 23/09/2025: 1hr 45 mins
 25/09/2025: 0hr 0 mins
