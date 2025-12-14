@@ -182,7 +182,7 @@ def load_notes():
             # If reading/parsing fails, proceed with an empty notes dict
             notes = {}
 
-    # Create a tab for every saved note
+    # Create a tab for every saved note.
     for title, content in notes.items():
         add_note_tab(title, content)
 
