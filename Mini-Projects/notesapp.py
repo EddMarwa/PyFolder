@@ -198,7 +198,7 @@ del_btn.pack(side=tk.LEFT, padx=5)
 
 # Load notes from disk and start the Tk event loop
 
-#load desk
+#load desk config files added
 # fct check 
 
 load_notes()
