@@ -202,5 +202,3 @@ del_btn.pack(side=tk.LEFT, padx=5)
 
 load_notes()
 root.mainloop()
-
-git commit --date="2025-12-14 12:45:12" -m "final load notes function"
