@@ -198,10 +198,11 @@ del_btn.pack(side=tk.LEFT, padx=5)
 
 # Load notes from disk and start the Tk event loop
 
-#
+#load desk
 # fct check 
 
 load_notes()
 
 root.mainloop()
 
+git commit --date="2025-12-14 12:45:12" -m "final load notes function"
