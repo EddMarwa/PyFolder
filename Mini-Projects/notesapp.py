@@ -195,6 +195,8 @@ new_btn.pack(side=tk.LEFT, padx=5)
 del_btn = ttk.Button(toolbar, text="Delete Note", command=delete_note)
 del_btn.pack(side=tk.LEFT, padx=5)
 
+# ----- AppplicationStartup -----
+
 
 # Load notes from disk and start the Tk event loop
 
