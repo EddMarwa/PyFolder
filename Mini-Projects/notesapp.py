@@ -45,7 +45,8 @@ notes = {}
 
 
 def add_note_tab(title=None, content=""):
-    """Create and add a read-only tab to the notebook.
+    """
+    Create and add a read-only tab to the notebook.
 
     Parameters:
     - title: string displayed on the tab (if None -> 'Untitled')
@@ -71,7 +72,8 @@ def add_note_tab(title=None, content=""):
 
 
 def add_note():
-    """Open a 'New Note' tab with fields for title and content and a Save button.
+    """
+    Open a 'New Note' tab with fields for title and content and a Save button.
 
     Workflow:
     - User enters title and content.
@@ -93,7 +95,8 @@ def add_note():
     content_text.grid(row=1, column=1, pady=4, sticky=tk.W)
 
     def save_note():
-        """Validate inputs and save the note to disk and UI.
+        """
+        Validate inputs and save the note to disk and UI.
 
         Important details:
         - Title cannot be empty (used as key in notes dict)
@@ -169,7 +172,8 @@ def delete_note():
 
 
 def load_notes():
-    """Load notes from NOTES_FILE and create tabs for each saved note.
+    """
+    Load notes from NOTES_FILE and create tabs for each saved note.
 
     If the file does not exist, the application starts with an empty notes dict.
     If the file is malformed, we silently fallback to an empty dict.
