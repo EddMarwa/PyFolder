@@ -39,7 +39,8 @@ root.geometry("600x400")
 notebook = ttk.Notebook(root)
 notebook.pack(padx=10, pady=10, fill=tk.BOTH, expand=True)
 
-# In-memory dictionary of notes. Keys are titles, values are note contents.
+# In-memory dictionary of notes. Keys are titles,
+#  values are note contents.
 notes = {}
 
 
