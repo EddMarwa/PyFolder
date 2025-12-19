@@ -203,7 +203,7 @@ del_btn.pack(side=tk.LEFT, padx=5)
 # ----- Appplication Startup ----
 # Load notes from disk and start the Tk event loop
 
-# fct 
+# 
 
 load_notes()
 root.mainloop()
