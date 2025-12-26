@@ -199,8 +199,12 @@ new_btn = ttk.Button(toolbar, text="New Note", command=add_note)
 new_btn.pack(side=tk.LEFT, padx=5)
 del_btn = ttk.Button(toolbar, text="Delete Note", command=delete_note)
 del_btn.pack(side=tk.LEFT, padx=5)
+\
+
+
 
 # ----- Appplication Startup ----
+
 
 
 load_notes()
