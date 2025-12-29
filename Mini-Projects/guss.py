@@ -6,7 +6,7 @@ attempts = 0
 
 while guess != number:
     try:
-        guess = int(input("Guess a number between 1 and 100: "))
+        guess = int(input("Guess any number between 1 and 100: "))
         attempts += 1
 
         if guess < number:
