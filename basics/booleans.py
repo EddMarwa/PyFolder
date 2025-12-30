@@ -15,11 +15,7 @@
  #   print(eddy[i])
   #  i+=1
 
-#mylist = ['apple', 'banana', 'cherry']
-#i = 0
-#for i in range(len(mylist)):
- # print(mylist[i])
-  #i += 1
+
 
 cars = ["Ford", "Volvo", "BMW"]
 ncars = []
