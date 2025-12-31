@@ -106,6 +106,7 @@ print (f"The square of {num} is {square(num)}")
 
 # Your code here
 
+
 marks = input("Enter marks here: ")
 
 if int(marks) < 50:
