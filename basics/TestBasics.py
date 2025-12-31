@@ -104,7 +104,6 @@ print (f"The square of {num} is {square(num)}")
 # 4. Print summary sentence
 # Example: Edd scored 85 and achieved Distinction.
 
- 
 
 
 marks = input("Enter marks here: ")
